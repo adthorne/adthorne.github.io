@@ -1,0 +1,10 @@
+.image_float_left {
+    float: left;
+    margin-right: 5px;
+}
+
+.image_float_right {
+    float: right;
+    margin-left: 5px;
+	margin-top: 5px;
+}
