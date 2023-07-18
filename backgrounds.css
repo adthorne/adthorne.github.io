@@ -1,0 +1,19 @@
+.background {
+    background-color: #BF6769;
+	margin-right: auto;
+	margin-left: auto;
+	width: 70%;	
+}
+.date_background {
+	background-color: #FFBFBF
+}
+.menu_bar {
+    background-color: #FFFFFF;
+}
+.menu_bar a {
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.menu_bar a:hover {
+	color: red;
+}
